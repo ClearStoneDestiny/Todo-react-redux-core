@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo-react-redux-core/static/css/main.86a951bd.css",
+    "main.js": "/Todo-react-redux-core/static/js/main.4a8164dc.js",
+    "static/media/trashcan-icon.svg": "/Todo-react-redux-core/static/media/trashcan-icon.c952ad55595e065e1a95efd2ecd786fd.svg",
+    "index.html": "/Todo-react-redux-core/index.html",
+    "main.86a951bd.css.map": "/Todo-react-redux-core/static/css/main.86a951bd.css.map",
+    "main.4a8164dc.js.map": "/Todo-react-redux-core/static/js/main.4a8164dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a951bd.css",
+    "static/js/main.4a8164dc.js"
+  ]
+}
